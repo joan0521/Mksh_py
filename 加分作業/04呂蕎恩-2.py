@@ -1,0 +1,8 @@
+q = float(input("請輸入一個數字"))
+w = float(input("請輸入一個數字"))
+e = float(input("請輸入一個數字"))
+r = float(input("請輸入一個數字"))
+print(q)
+print(w)
+print(e)
+print(r)
